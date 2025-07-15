@@ -1,6 +1,6 @@
 ## 🚀 Next Steps
 
-1. ❌ **Update repository name to `shoaibmohammed18.github.io`** (Current: `Shoaibmohammed18`)
+1. ❌ **Update repository name to `shoaibmohammed110993.github.io`** (Current: `Shoaibmohammed18`)
 2. **Update [`config.json`](https://github.com/shoaibmohammed18/Shoaibmohammed18/blob/main/config.json)** with your personal information, experience, and projects and then run [this workflow](https://github.com/shoaibmohammed18/Shoaibmohammed18/actions/workflows/update-readme.yml) to update the README
 3. **Replace assets** in the [`assets/`](https://github.com/shoaibmohammed18/Shoaibmohammed18/tree/main/assets/) folder with your own logos and project images
 4. **Add "featured" topic** to [GitHub repositories](https://github.com/shoaibmohammed18?tab=repositories) you want to showcase
